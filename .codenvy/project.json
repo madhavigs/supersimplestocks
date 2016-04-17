@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{"system:/java/codenvy-cli":{"ram":1000,"variables":{},"options":{}}},"default":"system:/java/codenvy-cli"},"builders":{"configs":{},"default":"maven"},"description":"Assignment \u2013 Super Simple Stocks","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
